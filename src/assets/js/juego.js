@@ -36,7 +36,7 @@ const miModulo = (() => {
         const cartaImg = document.createElement('img');
         jugadorCartasContainer[turno].append(cartaImg);
         cartaImg.className = 'carta';
-        cartaImg.src = `../src/assets/cartas/cartas/${carta}.png`
+        cartaImg.src = `public/cartas/${carta}.png`
         return carta;
     }
     //Esta funcion acumula los puntos de los jugadores y lo muestra
