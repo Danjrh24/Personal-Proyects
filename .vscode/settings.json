@@ -1,0 +1,74 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.suggestSmartCommit": false,
+    "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.guides.bracketPairs": "active",
+    "editor.formatOnSave": false,
+    "tabnine.experimentalAutoImports": true,
+    "sync.gist": "90f84d6b063733e1a5d38eb5108a77d9",
+    "material-ui-snippets.showNotesOnStartup": false,
+    "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.accessibilitySupport": "on",  
+    "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.stickyScroll.enabled": true,
+    "[python]": {
+    "editor.formatOnType": true
+    },
+    "rapidapi.terminalLink.enabled": false,
+    "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    } ,
+    "cSpell.userWords": ["callout", "Formik", "nextui", "reduxjs", "tailwindcss"],
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "xml.symbols.maxItemsComputed": 25000,
+    "xml.server.vmargs": "-Xmx128M",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "remote.portsAttributes": {
+    "5173": {
+    "protocol": "http"
+    }
+    },
+    "git.autofetch": true,
+    "tailwindCSS.includeLanguages": {
+    "typescript": "typescript",
+    "typescriptreact": "typescriptreact"
+    },
+    "tailwindCSS.experimental.classRegex": [
+    ["clsx\\(([^)]*)\\)", "(?:'|\"|)([^']*)(?:'|\"|)"],
+    ["className\\s*=\\s*[\"']([^\"']*)[\"'`]", "([a-zA-Z0-9\\-:]+)"]
+    ],
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false
+
+  // "material-icon-theme.activeIconPack": "nest",
+}
