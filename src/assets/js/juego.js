@@ -88,7 +88,7 @@ const miModulo = (() => {
             ? (alert('Nadie gana :(') ,disabledButtons(true))
             :( puntosComputadora > 21 ) ? (alert('Felicidades, ganaste!!') , disabledButtons(true)) 
             :(alert('Computadora gana') , disabledButtons (true));
-        }, 100);
+        }, 200);
     }
 
     //EVENTOS
@@ -101,7 +101,7 @@ const miModulo = (() => {
             ? (console.warn('21, genial!'), turnoComputadora(puntosJugador), disabledButtons(true)) 
             :( puntosJugador > 21 ) ? (alert('Computadora gana'), disabledButtons(true)) 
             : ''
-        }, 100);
+        }, 200);
         return puntosJugador;
     }) ;
 
